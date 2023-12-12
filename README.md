@@ -17,7 +17,7 @@
 - 📫 How to reach me ... Outlook: suneels93@hotmail.com
 - 📫 Gmail: suneel9321@gmail.com
 
-###My Skills
+My Skills
 -
 <div>
 <ul style="list-style-type:disc;">
