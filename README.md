@@ -20,19 +20,19 @@
 ###My Skills
 -
 <div>
- <ul>
-Android
-Java
-Kotlin
-Android SDK
-Retrofit
-Room Database
-Firebase
-Material Design
-MVVM Architecture
-Git
-Flutter
-  </ul>
+<ul style="list-style-type:disc;">
+<li>Android</li>
+ <li>Java</li>
+ <li>Kotlin</li>
+ <li>Android SDK</li>
+ <li>Retrofit</li>
+ <li>Room Database</li>
+ <li>Firebase</li>
+ <li>Material Design</li>
+ <li>MVVM Architecture</li>
+ <li>Git</li>
+ <li>Flutter</li>
+</ul>
 </div>
 
 > [!NOTE]
