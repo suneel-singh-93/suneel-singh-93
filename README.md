@@ -1,5 +1,7 @@
+<div id="header" align="center">
 # Hola 👋, I'm Suneel Singh
 # नमस्कार मैं सुनील सिंह हूँ
+</div>
 
 ![welcome](https://github.com/suneel-singh-93/suneel-singh-93/assets/93152383/4540eceb-10e9-4daa-8594-1213fb06b5f2)
 
@@ -11,6 +13,7 @@
 - 📫 Gmail: suneel9321@gmail.com
 
 ![code](https://github.com/suneel-singh-93/suneel-singh-93/assets/93152383/465e0409-b2d3-4dd1-a87c-5d8470601fd2) 
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
