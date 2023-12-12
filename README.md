@@ -19,6 +19,8 @@
 
 ###My Skills
 -
+<div>
+ <ul>
 Android
 Java
 Kotlin
@@ -30,7 +32,8 @@ Material Design
 MVVM Architecture
 Git
 Flutter
-
+  </ul>
+</div>
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
