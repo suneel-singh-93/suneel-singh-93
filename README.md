@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning  flutter 
 - 💞️ I’m looking to collaborate on ... java and kotlin , python - django  new add flutter - dart 
 - 📫 How to reach me ... Outlook: suneels93@hotmail.com
-- 📫 Gmail: suneel9321@gmail.com
+- 📫 Gmail: sunnya9321@gmail.com
 
 My Skills
 -
